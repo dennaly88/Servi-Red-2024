@@ -1,0 +1,17 @@
+bg-primary
+bg-secondary
+bg-success
+bg-danger
+bg-warning
+bg-aqua
+bg-green
+bg-red
+bg-yellow
+bg-blue
+bg-navy
+bg-purple
+bg-teal
+bg-orange
+bg-maroon
+bg-info
+bg-light
